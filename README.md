@@ -1,2 +1,5 @@
 # hello-world
-Performing due diligence to the time-honored tradition in computer programming.
+
+Hi All,
+
+Bobby here. I like to code in python and C#!
